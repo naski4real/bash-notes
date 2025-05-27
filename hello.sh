@@ -1,5 +1,4 @@
 #!/bin/bash
 
-echo "Hello, $USER! Todays date is $DATE."
-
+echo "👋 Welcome, $USER! 🎉 Today is $(date). Have a great day!"
 
